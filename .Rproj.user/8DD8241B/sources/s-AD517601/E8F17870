@@ -1,0 +1,24 @@
+{
+    "id": "E8F17870",
+    "path": null,
+    "project_path": null,
+    "type": "urlcontent",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1598021468888.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "title": "R demos",
+        "contentUrl": "content?title=R+demos&file=d838daffe6e3465a9054c639ebe99601"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 3202744822347951727,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1598021468888,
+    "read_only": false,
+    "read_only_alternatives": []
+}
